@@ -6,6 +6,10 @@ Background in Product & Industrial Design — it shapes how I think about system
 
 ## Projects
 
+### Pheme *(don't get too attached to the name, it'll probably change)*
+
+AI-powered phone assistant for small businesses. Owners sign up, configure their business details (name, hours, FAQs, greeting, persona) and get a dedicated phone number. When customers call, an AI agent picks up instantly, answers common questions, and escalates gracefully to a human or voicemail when needed. Built with FastAPI, Next.js, Twilio, and MongoDB.
+
 ### [call-me](https://github.com/eliasadamshk/call-me) *(fork of [ZeframLou/call-me](https://github.com/ZeframLou/call-me))*
 
 MCP server that lets background AI agents (Claude Code, Cursor Cloud Agents, custom loops) phone you when they're stuck, done, or need a decision. My fork adds:
@@ -22,4 +26,4 @@ Agent tool/skills systems backed by Postgres, production SSE streaming with zero
 
 ---
 
-*Open to connecting on agentic AI infrastructure, LLM orchestration, or developer tooling.*
+*Particularly interested in voice AI applications and bringing the productivity gains software engineers have experienced through GenAI to a wider range of industries. Open to connecting on agentic AI infrastructure, LLM orchestration, or developer tooling.*
