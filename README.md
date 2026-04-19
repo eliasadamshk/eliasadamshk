@@ -6,9 +6,9 @@ Background in Product & Industrial Design — it shapes how I think about system
 
 ## Projects
 
-### Pheme *(don't get too attached to the name, it'll probably change)*
+### [Cadence](https://github.com/eliasadamshk/cadence)
 
-AI-powered phone assistant for small businesses. Owners sign up, configure their business details (name, hours, FAQs, greeting, persona) and get a dedicated phone number. When customers call, an AI agent picks up instantly, answers common questions, and escalates gracefully to a human or voicemail when needed. Built with FastAPI, Next.js, Twilio, and MongoDB.
+Real-time standup board automation. A tool that listens to your standup, transcribes it in real-time with speaker identification, and extracts project management actions (moving cards, creating tickets, flagging blockers) as people talk. Built with FastAPI, AssemblyAI streaming, Gemini via OpenRouter, and a native SwiftUI menu bar app for macOS. Includes an eval suite covering 6 scenarios at 100% F1.
 
 ### [call-me](https://github.com/eliasadamshk/call-me) *(fork of [ZeframLou/call-me](https://github.com/ZeframLou/call-me))*
 
